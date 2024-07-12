@@ -1,0 +1,15 @@
+<!-- res/menu/note_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_view"
+        android:title="View"
+        android:fontFamily="@font/poppins_regular"/>
+    <item
+        android:id="@+id/menu_edit"
+        android:title="Edit"
+        android:fontFamily="@font/poppins_regular"/>
+    <item
+        android:id="@+id/menu_delete"
+        android:title="Delete"
+        android:fontFamily="@font/poppins_regular"/>
+</menu>

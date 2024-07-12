@@ -1,0 +1,8 @@
+<!-- res/menu/note_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Logout"
+        android:fontFamily="@font/poppins_regular"/>
+
+</menu>
